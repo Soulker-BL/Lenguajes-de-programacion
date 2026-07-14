@@ -1,0 +1,26 @@
+=======================================================
+        REPORTE VOCACIONAL TI
+=======================================================
+
+DATOS DEL ESTUDIANTE
+Código: 22301501
+Carrera: Ing. Sistemas
+
+ROL PROFESIONAL RECOMENDADO
+UX/UI Product Designer
+Afinidad: 80.77%
+
+ROL SECUNDARIO
+Frontend Developer
+Afinidad: 75.0%
+
+MOTIVOS DE RECOMENDACIÓN
+- Buenas habilidades de comunicación y liderazgo.
+- Interés por la automatización y buen desempeño bajo presión.
+
+HABILIDADES A FORTALECER
+- Mejorar Ciberseguridad
+- Mejorar Análisis de datos
+- Mejorar Investigación
+
+Fecha: 14/07/2026
